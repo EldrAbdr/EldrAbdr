@@ -43,7 +43,7 @@
 <a href="https://angular.io/" title="Angular"><img src="icons/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;</a>
 <a href="https://redux.js.org/" title="Redux"><img src="icons/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;</a>
 
-### 🏆 **_My stats:_**
+### **_My stats:_**
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldrabdr&theme=default">
 
